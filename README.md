@@ -6,7 +6,7 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 ### Part 0 - Fundamentals of Web apps
 + General Info
 + Fundamentals of Web apps
-### `#ffffff` Part 1 - Introduction to React
+### `#0d1117` Part 1 - Introduction to React
 + Introduction to React
 + JavaScript
 + Component State, event handlers
